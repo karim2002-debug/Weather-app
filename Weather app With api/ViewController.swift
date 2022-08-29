@@ -9,6 +9,8 @@ import UIKit
 import Alamofire
 class ViewController: UIViewController {
 
+    
+    //sa
     @IBOutlet weak var loaderActivityIndecator: UIActivityIndicatorView!
     @IBOutlet weak var CityNameLabel: UILabel!
     @IBOutlet weak var pressLabel: UILabel!
